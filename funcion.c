@@ -19,7 +19,6 @@ void mostrarMenu() {
     printf("4. Actualizar estado de un libro\n");
     printf("5. Eliminar libro\n");
     printf("6. Salir\n");
-    printf("Seleccione una opcion: ");
 }
 
 int leerOpcionMenu() {
